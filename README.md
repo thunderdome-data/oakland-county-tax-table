@@ -9,7 +9,8 @@ Table showing taxes in various municipalities in Oakland County, MI.
 Credits
 ---------
 
-Vaughn Hagerty, MaryJo
+Vaughn Hagerty
+
 Assumptions
 -----------
 
